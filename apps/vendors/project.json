@@ -69,7 +69,8 @@
       "options": {
         "buildTarget": "vendors:build",
         "staticFilePath": "dist/apps/vendors/browser",
-        "port": 4204
+        "port": 4204,
+        "proxyUrl": "http://localhost:4204?"
       }
     }
   }
